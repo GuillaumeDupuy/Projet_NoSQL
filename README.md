@@ -10,10 +10,10 @@ Depot git du projet libre en NoSQL.
 
 # Install 
 
-  - **pip install pymongo**
-  - **pip install requests**
-  - **pip install pprint**
-  - **pip install json**
+  - ```pip install pymongo```
+  - ```pip install requests```
+  - ```pip install pprint```
+  - ```pip install json```
 
 # Configuration
 
