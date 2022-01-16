@@ -77,7 +77,7 @@
         "id": "6ba60a86-7c74-4ec4-a6f4-7112b5705a2f",
         "name": "Gondoa",
         "climate": "TODO",
-        "terrain": "TODO",
+        "terrain": "Mountain",
         "surface_water": "40",
         "residents": [
             "TODO"
@@ -91,7 +91,7 @@
         "id": "fb083a4e-77b2-4623-a2e0-6bbca5bfd5b2",
         "name": "Ursula's Log Cabin",
         "climate": "TODO",
-        "terrain": "TODO",
+        "terrain": "Forest",
         "surface_water": "40",
         "residents": [
             "TODO"
@@ -105,7 +105,7 @@
         "id": "a072ec53-0467-4fac-864f-df234f9c4315",
         "name": "Zeniba's Cottage",
         "climate": "TODO",
-        "terrain": "TODO",
+        "terrain": "Plain",
         "surface_water": "40",
         "residents": [
             "TODO"
